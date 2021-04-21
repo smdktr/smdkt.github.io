@@ -9,7 +9,7 @@ Node.js に力を入れてます！
 - Japan
 
 # Skills
-- Windows,　MacOS, Ubuntu
+- Windows, MacOS, Ubuntu
 - HTML&CSS, JavaScript
 - Node.js, Express
 - docker, Git, PostgreSQL
